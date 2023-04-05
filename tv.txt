@@ -19,11 +19,15 @@ CCTV4中文国际,http://183.65.9.200:8888/udp/235.254.199.183:7980
 CCTV4中文国际,http://wh.re168.com:8089/udp/239.69.1.138:10466
 CCTV4中文国际,http://chuangye168.gnway.org:56994/g8dyou.php?id=CCTV-4HD_7500
 CCTV5体育,http://183.65.9.200:8888/udp/235.254.199.54:7980
+CCTV5体育,http://39.134.136.138:6610/000000001000/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3
 CCTV5体育,http://chuangye168.gnway.org:56994/g8dyou.php?id=1605_4500
 CCTV5体育,http://wh.re168.com:8089/udp/239.69.1.123:10376
 CCTV5+体育赛事,http://183.65.9.200:8888/udp/235.254.199.121:7980
+CCTV5体育赛事,http://39.134.136.138:6610/000000001000/6000000001000015875/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3
 CCTV5+体育赛事,http://wh.re168.com:8089/udp/239.254.96.234:9484
 CCTV5+体育赛事,http://chuangye168.gnway.org:56994/g8dyou.php?id=1403_4500
+CCTV16奥林匹克,http://39.134.136.138:6610/000000001000/1000000006000233001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=3
+CCTV16奥林匹克,http://119.167.231.173/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
 广东体育,http://183.63.15.42:9901/tsfile/live/1001_1.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广州竞赛,https://justsometime.gztv.com/sec/jingsai.m3u8

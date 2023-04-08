@@ -20,7 +20,7 @@ http://107.151.203.111:2209/135/hk.php?id=cable37h
 #EXTINF:-1 group-title="未分类",CCTV5体育
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 group-title="未分类",CCTV5+体育赛事
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+http://192.168.100.1:4567/sxg.php?id=CCTV-5H265_4000?
 #EXTINF:-1 group-title="未分类",CCTV16奥林匹克
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 group-title="未分类",广东体育

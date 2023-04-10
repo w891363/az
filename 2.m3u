@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分类",广东珠江
-http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdzj&auth=rinimabi
+http://lu1.cc/itv/php/gudou.php?id=gdzj
 #EXTINF:-1 group-title="未分类",CCTV4中文国际
 http://183.65.9.200:8888/udp/235.254.199.183:7980
 #EXTINF:-1 group-title="未分类",凤凰资讯

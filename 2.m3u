@@ -16,9 +16,9 @@ http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类",有线新闻
 http://107.151.203.111:2209/135/hk.php?id=cable37h
 #EXTINF:-1 group-title="未分类",CCTV5体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+http://117.169.122.98:6610/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="未分类",CCTV5+体育赛事
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8?
+http://117.169.122.98:6610/PLTV/88888910/224/3221225706/index.m3u8?
 #EXTINF:-1 group-title="未分类",CCTV16奥林匹克
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 #EXTINF:-1 group-title="未分类",广东体育

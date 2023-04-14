@@ -1,5 +1,6 @@
 未分类,#genre#
 广东珠江,http://live.cooltv.top/tv/good.php?id=gdzhujiangHD_7500
+广东珠江,http://183.236.98.39:808/hls/61/index.m3u8
 广东珠江,http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
 凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 凤凰资讯,http://playback.8ne5i.10.vs.rxip.sc96655.com/live/test2_4000.m3u8

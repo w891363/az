@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分类",广东珠江
-http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
+https://epg.pw/stream/02b447bbc5e0cc215d67a600f209562ef683335e441152980510520a53d6f4ff.m3u8
 #EXTINF:-1 group-title="未分类",CCTV4中文国际
 http://183.65.9.200:8888/udp/235.254.199.183:7980
 #EXTINF:-1 group-title="未分类",凤凰资讯

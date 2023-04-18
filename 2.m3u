@@ -8,11 +8,11 @@ rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
 #EXTINF:-1 group-title="未分类",凤凰中文
 rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
 #EXTINF:-1 group-title="未分类",翡翠台
-http://flv.mp4cdn.live/gt-key=0025874.php?id=2
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 #EXTINF:-1 group-title="未分类",翡翠华丽
 http://r.jdshipin.com/thuYX
 #EXTINF:-1 group-title="未分类",无线新闻
-http://live.cooltv.top/tv/tvb.php?id=0
+https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212213.m3u8
 #EXTINF:-1 group-title="未分类",有线新闻
 http://107.151.203.111:2209/135/hk.php?id=cable37h
 #EXTINF:-1 group-title="未分类",CCTV5体育

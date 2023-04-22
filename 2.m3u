@@ -43,8 +43,6 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/inde
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 #EXTINF:-1 group-title="未分类",山东齐鲁
 http://hcc91.ml:1234/udp/239.253.240.114:8000
-#EXTINF:-1 group-title="未分类",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="未分类",河东综合
 rtmp://wslivealone.iqilu.com/hedong/hedong_tv02
 #EXTINF:-1 group-title="未分类",河东影视
@@ -53,6 +51,8 @@ rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
 http://www.happyspace.party:4022/udp/239.45.3.237:5140
 #EXTINF:-1 group-title="未分类",北京影视
 http://live.cooltv.top/tv/btime.php?id=btvys
+#EXTINF:-1 group-title="未分类",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="未分类",舟山新闻
 http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 #EXTINF:-1 group-title="未分类",武汉电视剧

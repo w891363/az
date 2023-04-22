@@ -4,9 +4,9 @@ http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="未分类",CCTV4中文国际
 http://183.65.9.200:8888/udp/235.254.199.183:7980
 #EXTINF:-1 group-title="未分类",凤凰资讯
-rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8
 #EXTINF:-1 group-title="未分类",凤凰中文
-rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023042209327.m3u8
 #EXTINF:-1 group-title="未分类",翡翠台
 https://pull-l3-cny.douyincdn.com/live/stream-19882782023041319556.m3u8
 #EXTINF:-1 group-title="未分类",翡翠华丽
@@ -26,7 +26,7 @@ http://yzfvip.top:8000/rtp/239.77.0.112:5146
 #EXTINF:-1 group-title="未分类",广州竞赛
 https://justsometime.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1 group-title="未分类",先锋乒羽
-http://gxyl-dl001.8866.org:8181/tsfile/live/1064_1.m3u8
+http://xstartx.com:4000/udp/239.93.42.56:5140
 #EXTINF:-1 group-title="未分类",CCTV1综合
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 #EXTINF:-1 group-title="未分类",CCTV2财经
@@ -41,8 +41,8 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/inde
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 #EXTINF:-1 group-title="未分类",CCTV-13新闻
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-#EXTINF:-1 group-title="未分类",CCTV-17农业农村
-http://59.51.68.40:1936/live/cctv7/playlist.m3u8
+#EXTINF:-1 group-title="未分类",山东齐鲁
+http://hcc91.ml:1234/udp/239.253.240.114:8000
 #EXTINF:-1 group-title="未分类",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="未分类",河东综合

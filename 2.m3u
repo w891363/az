@@ -32,7 +32,7 @@ http://router.tonyliangli.cn:4022/rtp/239.3.1.125:8001
 #EXTINF:-1 group-title="未分类",睛彩篮球
 http://router.tonyliangli.cn:4022/rtp/239.3.1.126:8001
 #EXTINF:-1 group-title="未分类",睛彩羽毛球
-http://router.tonyliangli.cn:4022/rtp/239.3.1.127:8001
+http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001
 #EXTINF:-1 group-title="未分类",深圳电视剧
 http://live.cooltv.top/tv/sztv.php?id=szdsj
 #EXTINF:-1 group-title="未分类",深圳都市

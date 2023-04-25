@@ -31,8 +31,8 @@ https://justsometime.gztv.com/sec/jingsai.m3u8
 http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056
 #EXTINF:-1 group-title="未分类",睛彩竞技
 http://router.tonyliangli.cn:4022/rtp/239.3.1.125:8001
-#EXTINF:-1 group-title="未分类",北京影视
-http://live.cooltv.top/tv/btime.php?id=btvys
+#EXTINF:-1 group-title="未分类",吴川电视
+https://live.v1.mk/api/itouch.php?id=2499
 #EXTINF:-1 group-title="未分类",深圳电视剧
 http://live.cooltv.top/tv/sztv.php?id=szdsj
 #EXTINF:-1 group-title="未分类",深圳都市

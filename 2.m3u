@@ -8,11 +8,11 @@ https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8
 #EXTINF:-1 group-title="未分类",凤凰中文
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
 #EXTINF:-1 group-title="未分类",翡翠台
-http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+http://flv.mp4cdn.live/gt-key=0025874.php?id=2
 #EXTINF:-1 group-title="未分类",翡翠华丽
 http://r.jdshipin.com/thuYX
 #EXTINF:-1 group-title="未分类",无线新闻
-http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=6
+http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类",有线新闻
 http://107.151.203.111:2209/135/hk.php?id=cable37h
 #EXTINF:-1 group-title="未分类",CCTV5体育
@@ -26,7 +26,7 @@ http://yzfvip.top:8000/rtp/239.77.0.112:5146
 #EXTINF:-1 group-title="未分类",广州竞赛
 https://justsometime.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1 group-title="未分类",先锋乒羽
-http://xstartx.com:4000/udp/239.93.42.56:5140
+http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056
 #EXTINF:-1 group-title="未分类",CCTV1综合
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 #EXTINF:-1 group-title="未分类",CCTV2财经

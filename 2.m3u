@@ -15,6 +15,8 @@ http://r.jdshipin.com/thuYX
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类",有线新闻
 http://107.151.203.111:2209/135/hk.php?id=cable37h
+#EXTINF:-1 group-title="未分类",无线财经
+http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类",CCTV5体育
 http://39.134.136.138:6610/000000001000/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3
 #EXTINF:-1 group-title="未分类",CCTV5+体育赛事
@@ -29,10 +31,8 @@ https://justsometime.gztv.com/sec/jingsai.m3u8
 http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056
 #EXTINF:-1 group-title="未分类",睛彩竞技
 http://router.tonyliangli.cn:4022/rtp/239.3.1.125:8001
-#EXTINF:-1 group-title="未分类",睛彩篮球
-http://router.tonyliangli.cn:4022/rtp/239.3.1.126:8001
-#EXTINF:-1 group-title="未分类",睛彩羽毛球
-http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="未分类",北京影视
+http://live.cooltv.top/tv/btime.php?id=btvys
 #EXTINF:-1 group-title="未分类",深圳电视剧
 http://live.cooltv.top/tv/sztv.php?id=szdsj
 #EXTINF:-1 group-title="未分类",深圳都市

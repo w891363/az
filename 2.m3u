@@ -53,12 +53,12 @@ http://www.happyspace.party:4022/udp/239.45.3.237:5140
 http://live.cooltv.top/tv/btime.php?id=btvys
 #EXTINF:-1 group-title="未分类",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="未分类",舟山新闻
-http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
+#EXTINF:-1 group-title="未分类",深圳电视剧
+http://live.cooltv.top/tv/sztv.php?id=szdsj
 #EXTINF:-1 group-title="未分类",武汉电视剧
-http://wh.re168.com:8089/udp/239.69.1.146:10512
+http://ned2188.eicp.net:8888/udp/239.69.1.146:10512
 #EXTINF:-1 group-title="未分类",武汉综合
-http://wh.re168.com:8089/udp/239.69.1.145:10506
+http://ned2188.eicp.net:8888/udp/239.69.1.145:10506
 
 
 

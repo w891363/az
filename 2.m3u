@@ -8,7 +8,7 @@ https://pull-l3-cny.douyincdn.com/live/stream-19882782023042119282.m3u8
 #EXTINF:-1 group-title="未分类",凤凰中文
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
 #EXTINF:-1 group-title="未分类",翡翠台
-http://38.55.196.41/iptv.php?key=1dff350a198e9e53696fd9c8ab1b2862&id=5
+http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="未分类",翡翠华丽
 http://r.jdshipin.com/thuYX
 #EXTINF:-1 group-title="未分类",无线新闻
@@ -55,10 +55,14 @@ http://live.cooltv.top/tv/btime.php?id=btvys
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="未分类",深圳电视剧
 http://live.cooltv.top/tv/sztv.php?id=szdsj
+#EXTINF:-1 group-title="未分类",深圳都市
+http://live.cooltv.top/tv/sztv.php?id=szds
+#EXTINF:-1 group-title="未分类",广州新闻
+http://live.cooltv.top/tv/guangzhou.php?id=gzxw
+#EXTINF:-1 group-title="未分类",广州影视
+http://live.cooltv.top/tv/guangzhou.php?id=gzys
 #EXTINF:-1 group-title="未分类",武汉电视剧
 http://ned2188.eicp.net:8888/udp/239.69.1.146:10512
-#EXTINF:-1 group-title="未分类",武汉综合
-http://ned2188.eicp.net:8888/udp/239.69.1.145:10506
 
 
 

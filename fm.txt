@@ -19,7 +19,7 @@
     },
     {
       "name": "EXO",
-      "url": "https://github.com/live.txt",
+      "url": "https://agit.ai/houyongxin/monkey/raw/branch/master/tv/zlive27.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2

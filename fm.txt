@@ -47,7 +47,7 @@
     {
       "name": "JSON",
       "type": 1,
-      "url": "https://github.com/live.json"
+      "url": "https://agit.ai/kvymin/TV/raw/branch/master/tvlives/live.json"
     }
   ]
 }

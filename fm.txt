@@ -36,7 +36,7 @@
     {
       "name": "Custom",
       "boot": false,
-      "url": "https://github.com/live.txt",
+      "url": "https://agit.ai/lyh123/11/raw/branch/ma/tv.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "header": {

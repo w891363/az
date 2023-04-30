@@ -12,7 +12,7 @@
     },
     {
       "name": "IJK",
-      "url": "https://github.com/live.txt",
+      "url": "https://agit.ai/Bokyer/ATV/raw/branch/master/TV/231.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1

@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "M3U",
-      "url": "https://github.com/live.m3u"
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u"
     },
     {
       "name": "TXT",

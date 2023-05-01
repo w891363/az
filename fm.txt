@@ -1,10 +1,6 @@
 {
   "lives": [
     {
-      "name": "M3U",
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
-    },
-    {
       "name": "TXT",
       "url": "https://fastly.jsdelivr.net/gh/da13576/az@main/tv.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",

@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "M3U",
-      "url": "https://raw.iqiq.io/youshandefeiyang/IPTV/main/main/cqyx.m3u"
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"
     },
     {
       "name": "TXT",

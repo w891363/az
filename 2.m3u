@@ -10,14 +10,11 @@ http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?tx
 #EXTINF:-1 group-title="未分类",翡翠台
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 group-title="未分类",翡翠华丽
-http://23.237.10.66:16410
-#http://r.jdshipin.com/thuYX
+http://r.jdshipin.com/thuYX
 #EXTINF:-1 group-title="未分类",无线新闻
-http://209.141.47.175/kstv2.php?id=3
-#http://live.cooltv.top/tv/tvb.php?id=0
+http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类",有线新闻
-http://209.141.47.175/kstv2.php?id=4
-#http://107.151.203.111:2209/135/hk.php?id=cable37h
+http://107.151.203.111:2209/135/hk.php?id=cable37h
 #EXTINF:-1 group-title="未分类",无线财经
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类",CCTV5体育

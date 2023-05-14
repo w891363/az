@@ -3,7 +3,8 @@
 http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3$ITV
 #http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 group-title="未分类",CCTV4中文国际
-http://113.207.84.197:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
+http://yuwentao114.f3322.net:4022/rtp/239.252.220.184:5140
+#http://113.207.84.197:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title="未分类",凤凰资讯
 http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=1
 #EXTINF:-1 group-title="未分类",凤凰中文
@@ -43,7 +44,8 @@ http://live.cooltv.top/tv/guangzhou.php?id=gzys
 #EXTINF:-1 group-title="未分类",CCTV1综合
 http://183.65.9.200:8888/udp/235.254.199.51:7980
 #EXTINF:-1 group-title="未分类",CCTV2财经
-http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+http://yuwentao114.f3322.net:4022/rtp/239.252.220.183:5140
+#http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 #EXTINF:-1 group-title=未分类",CCTV6电影
 http://111.20.40.167/TVOD/88888893/224/3221226393/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,723&prioritypopid=1
 #EXTINF:-1 group-title=未分类",CCTV8电视剧

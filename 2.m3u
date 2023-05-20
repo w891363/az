@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分类",广东珠江
-http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
+http://120.234.220.107:9000/udp/239.20.0.64:3144
+#http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
 #http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3$ITV
 #EXTINF:-1 group-title="未分类",CCTV4中文国际
 http://113.207.84.199:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8

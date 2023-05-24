@@ -62,7 +62,8 @@ http://www.yiyibest.com:7777/udp/239.49.8.107:8000
 #EXTINF:-1 group-title="未分类",陕西都市
 http://hor99.supersky.club:8000/udp/239.111.205.42:5140
 #EXTINF:-1 group-title="未分类",山东齐鲁
-http://hcc91.ml:1234/udp/239.253.240.114:8000
+rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
+#http://hcc91.ml:1234/udp/239.253.240.114:8000
 #EXTINF:-1 group-title="未分类",河东综合
 rtmp://wslivealone.iqilu.com/hedong/hedong_tv02
 #EXTINF:-1 group-title="未分类",河东影视

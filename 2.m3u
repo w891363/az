@@ -37,12 +37,6 @@ https://justsometime.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="未分类",先锋乒羽
 https://www.cntao.top/api/cbn1.php?id=xianfeng
 #http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056
-#EXTINF:-1,tvg-id="睛彩竞技[高清]" tvg-name="睛彩竞技[高清]" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="未分类",睛彩竞技
-http://qnap.yjnhome.com:4000/udp/239.3.1.125:8001
-#EXTINF:-1,tvg-id="篮球" tvg-name="篮球" tvg-logo="https://epg.112114.xyz/logo/篮球.png" group-title="未分类",睛彩篮球
-http://qnap.yjnhome.com:4000/udp/239.3.1.126:8001
-#EXTINF:-1,tvg-id="睛彩羽毛球[高清]" tvg-name="睛彩羽毛球[高清]" tvg-logo="https://epg.112114.xyz/logo/睛彩羽毛球.png" group-title="未分类",睛彩羽毛球
-http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001
 #EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="未分类",经济科教
 http://live.cooltv.top/tv/gd.php?id=jjkj
 #EXTINF:-1 group-title="未分类",深圳电视剧

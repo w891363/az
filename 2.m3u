@@ -17,7 +17,7 @@ https://www.cntao.top/api/fhx.php?id=fhhk
 http://r.jdshipin.com/62WM7
 #EXTINF:-1 group-title="未分类",翡翠华丽
 http://23.237.10.66:16410
-#EXTINF:-1 group-title="未分类",无线新闻
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="未分类",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类",有线新闻
 http://107.151.203.111:2209/135/hk.php?id=cable37h

@@ -26,7 +26,7 @@ http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="未分类",CCTV5体育
 http://39.134.136.206:6610/200000001898/460000089800010139/1.m3u8?IASHttpSessionId=OTT
 #http://39.134.136.138:6610/000000001000/6000000001000016431/index.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="未分类",CCTV5+
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="未分类",CCTV5+体育赛事
 http://39.134.136.206:6610/200000001898/460000089800010044/1.m3u8?IASHttpSessionId=OTT
 #http://39.134.136.138:6610/000000001000/6000000001000015875/index.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3?
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="未分类",CCTV16奥林匹克
@@ -34,7 +34,7 @@ http://113.207.84.199:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="未分类",广东体育
 http://120.234.220.107:9000/udp/239.20.0.103:2004
 #http://yzfvip.top:8000/rtp/239.77.0.112:5146
-#EXTINF:-1 group-title="未分类",广州竞赛
+#EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="未分类",广州竞赛
 https://justsometime.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="未分类",先锋乒羽
 https://www.cntao.top/api/cbn1.php?id=xianfeng
@@ -45,15 +45,15 @@ http://qnap.yjnhome.com:4000/udp/239.3.1.125:8001
 http://qnap.yjnhome.com:4000/udp/239.3.1.126:8001
 #EXTINF:-1,tvg-id="睛彩羽毛球[高清]" tvg-name="睛彩羽毛球[高清]" tvg-logo="https://epg.112114.xyz/logo/睛彩羽毛球.png" group-title="未分类",睛彩羽毛球
 http://qnap.yjnhome.com:4000/udp/239.3.1.127:8001
-#EXTINF:-1 group-title="未分类",经济科教
+#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="未分类",经济科教
 http://live.cooltv.top/tv/gd.php?id=jjkj
 #EXTINF:-1 group-title="未分类",深圳电视剧
 http://live.cooltv.top/tv/sztv.php?id=szdsj
 #EXTINF:-1 group-title="未分类",深圳都市
 http://live.cooltv.top/tv/sztv.php?id=szds
-#EXTINF:-1 group-title="未分类",广州新闻
+#EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="未分类",广州新闻
 http://live.cooltv.top/tv/guangzhou.php?id=gzxw
-#EXTINF:-1 group-title="未分类",广州影视
+#EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.112114.xyz/logo/广州影视.png" group-title="未分类",广州影视
 http://live.cooltv.top/tv/guangzhou.php?id=gzys
 #EXTINF:-1 group-title="未分类",CCTV1综合
 http://183.65.9.200:8888/udp/235.254.199.51:7980

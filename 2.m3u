@@ -39,9 +39,9 @@ https://www.cntao.top/api/cbn1.php?id=xianfeng
 #http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056
 #EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="未分类",经济科教
 http://live.cooltv.top/tv/gd.php?id=jjkj
-#EXTINF:-1 group-title="未分类",深圳电视剧
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png" group-title="未分类",深圳电视剧
 http://live.cooltv.top/tv/sztv.php?id=szdsj
-#EXTINF:-1 group-title="未分类",深圳都市
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png" group-title="未分类",深圳都市
 http://live.cooltv.top/tv/sztv.php?id=szds
 #EXTINF:-1,tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png" group-title="未分类",广州新闻
 http://live.cooltv.top/tv/guangzhou.php?id=gzxw

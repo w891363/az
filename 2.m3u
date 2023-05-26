@@ -75,7 +75,7 @@ http://122.224.232.226:8888/udp/233.50.201.107:5140
 #EXTINF:-1 group-title="未分类",宁波TV1
 http://122.224.232.226:8888/udp/233.50.201.168:5140
 #http://www.372583307.top:4022/udp/233.50.201.168:5140 
-#EXTINF:-1 group-title="未分类",江苏城市
+#EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png" group-title="未分类",江苏城市
 http://www.yiyibest.com:7777/udp/239.49.8.107:8000
 #EXTINF:-1 group-title="未分类",陕西都市
 http://hor99.supersky.club:8000/udp/239.111.205.42:5140
@@ -88,7 +88,7 @@ rtmp://wslivealone.iqilu.com/hedong/hedong_tv02
 rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
 #EXTINF:-1 group-title="未分类",东方影视
 http://www.happyspace.party:4022/udp/239.45.3.237:5140
-#EXTINF:-1 group-title="未分类",北京影视
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="未分类",北京影视
 http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
 #EXTINF:-1 group-title="未分类",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8

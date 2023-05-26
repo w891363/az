@@ -86,7 +86,7 @@ rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 rtmp://wslivealone.iqilu.com/hedong/hedong_tv02
 #EXTINF:-1 group-title="未分类",河东影视
 rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
-#EXTINF:-1 group-title="未分类",东方影视
+#EXTINF:-1,tvg-id="22" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="未分类",东方影视
 http://www.happyspace.party:4022/udp/239.45.3.237:5140
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="未分类",北京影视
 http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000

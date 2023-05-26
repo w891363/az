@@ -19,7 +19,8 @@ http://pull-l3-cny.douyincdn.com/live/I8NmAJdhktvb.m3u8
 #EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="未分类",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1,tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="未分类",有线新闻
-http://107.151.203.111:2209/135/hk.php?id=cable37h
+http://pull-l3-cny.douyincdn.com/live/daddajjoj55108.m3u8
+#http://107.151.203.111:2209/135/hk.php?id=cable37h
 #EXTINF:-1,tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://epg.112114.xyz/logo/无线财经.png" group-title="未分类",无线财经
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="未分类",CCTV5体育

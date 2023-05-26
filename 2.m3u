@@ -79,7 +79,7 @@ http://122.224.232.226:8888/udp/233.50.201.168:5140
 #http://www.372583307.top:4022/udp/233.50.201.168:5140 
 #EXTINF:-1,tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png" group-title="未分类",江苏城市
 http://www.yiyibest.com:7777/udp/239.49.8.107:8000
-#EXTINF:-1 group-title="未分类",陕西都市
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/陕西二套.png" group-title="未分类",陕西都市
 http://hor99.supersky.club:8000/udp/239.111.205.42:5140
 #EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="未分类",山东齐鲁
 rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn

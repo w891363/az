@@ -35,7 +35,7 @@ http://113.207.84.199:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u
 http://120.234.220.107:9000/udp/239.20.0.103:2004
 #http://yzfvip.top:8000/rtp/239.77.0.112:5146
 #EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png" group-title="未分类",广州竞赛
-https://justsometime.gztv.com/sec/jingsai.m3u8
+http://lu1.cc/itv/gdtv/gzxl.php?id=gzjs
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="未分类",先锋乒羽
 https://www.cntao.top/api/cbn1.php?id=xianfeng
 #http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056
@@ -85,9 +85,11 @@ http://hor99.supersky.club:8000/udp/239.111.205.42:5140
 rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 #http://hcc91.ml:1234/udp/239.253.240.114:8000
 #EXTINF:-1 group-title="未分类",河东综合
-rtmp://wslivealone.iqilu.com/hedong/hedong_tv02
+http://lu1.cc/itv/php/iqilu.php?id=lyhdzh
+#rtmp://wslivealone.iqilu.com/hedong/hedong_tv02
 #EXTINF:-1 group-title="未分类",河东影视
-rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
+http://lu1.cc/itv/php/iqilu.php?id=lyhdys
+#rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
 #EXTINF:-1,tvg-id="22" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="未分类",东方影视
 http://www.happyspace.party:4022/udp/239.45.3.237:5140
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="未分类",北京影视
@@ -98,10 +100,14 @@ http://39.134.61.219/PLTV/88888888/224/3221226861/index.m3u8
 #EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png" group-title="未分类",辽宁都市
 http://39.134.61.219/PLTV/88888888/224/3221226914/index.m3u8
 #http://39.134.61.218/PLTV/88888888/224/3221226914/index.m3u8
-#EXTINF:-1 group-title="未分类",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,tvg-id="云南都市" tvg-name="云南都市" tvg-logo="https://epg.112114.xyz/logo/云南都市.png" group-title="未分类",云南都市
+http://lu1.cc/itv/yntv/ysy.php?id=ynds&l=1
+#EXTINF:-1,tvg-id="云南影视" tvg-name="云南影视" tvg-logo="https://epg.112114.xyz/logo/云南影视.png" group-title="未分类",云南影视
+http://lu1.cc/itv/yntv/ysy.php?id=ynys&l=1
 #EXTINF:-1,tvg-id="1788" tvg-name="武汉电视剧频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV2.png" group-title="未分类",武汉电视剧
 http://ned2188.eicp.net:8888/udp/239.69.1.146:10512
+#EXTINF:-1 group-title="未分类",金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png" group-title="未分类",淘电影[高清]
 http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 

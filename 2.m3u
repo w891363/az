@@ -75,7 +75,7 @@ http://www.markc.top:8887/rtp/239.49.8.17:9606
 http://122.224.232.226:8888/udp/233.50.201.106:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="未分类", 北京卫视
 http://122.224.232.226:8888/udp/233.50.201.107:5140
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="浙江频道",浙江钱江频道
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="未分类",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="未分类",宁波TV1
 http://122.224.232.226:8888/udp/233.50.201.168:5140
@@ -95,9 +95,9 @@ http://lu1.cc/itv/php/iqilu.php?id=lyhdys
 #rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
 #EXTINF:-1,tvg-id="22" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="未分类",东方影视
 http://www.happyspace.party:4022/udp/239.45.3.237:5140
-#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻综合
+#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="未分类",上海新闻
 https://cntv.sbs/sh?id=xwzh
-#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京频道",北京文艺
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="未分类",北京文艺
 https://i.cntv.sbs/hls/bj.m3u8?id=wy
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="未分类",北京影视
 http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000

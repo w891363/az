@@ -108,7 +108,7 @@ http://lu1.cc/itv/yntv/ysy.php?id=ynys&l=1
 http://ned2188.eicp.net:8888/udp/239.69.1.146:10512
 #EXTINF:-1 group-title="未分类",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png" group-title="未分类",淘电影[高清]
+#EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png" group-title="未分类",淘电影
 http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 
 

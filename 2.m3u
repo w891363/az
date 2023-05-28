@@ -100,7 +100,7 @@ http://lu1.cc/itv/php/iqilu.php?id=lyhdys
 #rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
 #EXTINF:-1,tvg-id="22" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="未分类",东方影视
 http://www.happyspace.party:4022/udp/239.45.3.237:5140
-#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="未分类",上海新闻
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png",上海新闻
 https://cntv.sbs/sh?id=xwzh
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="未分类",北京文艺
 https://i.cntv.sbs/hls/bj.m3u8?id=wy

@@ -80,7 +80,7 @@ http://yuwentao114.f3322.net:4022/rtp/239.252.219.214:5140
 #http://122.224.232.226:8888/udp/233.50.201.106:5140
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="未分类", 北京卫视
 http://122.224.232.226:8888/udp/233.50.201.107:5140
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="未分类",浙江钱江
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/浙江钱江.png",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="未分类",宁波TV1
 http://122.224.232.226:8888/udp/233.50.201.168:5140

@@ -23,7 +23,7 @@ http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻
 http://pull-l3-cny.douyincdn.com/live/daddajjoj55108.m3u8
 #http://107.151.203.111:2209/135/hk.php?id=cable37h
-#EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png",无线财经
+#EXTINF:-1 group-title="未分类" tvg-logo="http://www.stream-link.org/tv_logo/tvb-finance.png",无线财经
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5体育
 http://39.134.136.206:6610/200000001898/460000089800010139/1.m3u8?IASHttpSessionId=OTT

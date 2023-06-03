@@ -38,15 +38,20 @@ http://120.234.220.107:9000/udp/239.20.0.103:2004
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png",广州竞赛
 http://lu1.cc/itv/gdtv/gzxl.php?id=gzjs
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png",先锋乒羽
-http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056
+http://113.117.74.40:8081/hls/113/index.m3u8
+#http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056
 #https://www.cntao.top/api/cbn1.php?id=xianfeng
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",经济科教
-http://live.cooltv.top/tv/gd.php?id=jjkj
+http://awei.beimua.com/gudou.php?id=GDjingjikejiaoHD_7000
+#http://live.cooltv.top/tv/gd.php?id=jjkj
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png",深圳电视剧
-http://120.204.20.48/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8
+http://113.117.74.40:8081/hls/18/index.m3u8
+#http://113.117.74.40:8081/hls/69/index.m3u8
+#http://120.204.20.48/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel47/index.m3u8
 #http://live.cooltv.top/tv/sztv.php?id=szdsj
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png",深圳都市
-http://120.204.20.48/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8
+http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+#http://120.204.20.48/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel46/index.m3u8
 #http://live.cooltv.top/tv/sztv.php?id=szds
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png",广州新闻
 http://live.cooltv.top/tv/guangzhou.php?id=gzxw

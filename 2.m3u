@@ -36,7 +36,8 @@ http://113.207.84.195:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u
 http://120.234.220.107:9000/udp/239.20.0.103:2004
 #http://yzfvip.top:8000/rtp/239.77.0.112:5146
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png",广州竞赛
-http://lu1.cc/itv/gdtv/gzxl.php?id=gzjs
+http://lu1.cc/a/play/php/gudou.php?id=gzjs
+#http://lu1.cc/itv/gdtv/gzxl.php?id=gzjs
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png",先锋乒羽
 http://113.117.74.40:8081/hls/113/index.m3u8
 #http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056

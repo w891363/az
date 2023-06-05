@@ -122,7 +122,8 @@ http://lu1.cc/itv/yntv/ysy.php?id=ynds&l=1
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南影视
 http://lu1.cc/itv/yntv/ysy.php?id=ynys&l=1
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV2.png",武汉电视剧
-http://ned2188.eicp.net:8888/udp/239.69.1.146:10512
+mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
+#http://ned2188.eicp.net:8888/udp/239.69.1.146:10512
 #EXTINF:-1 group-title="未分类",金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png",淘电影

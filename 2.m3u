@@ -21,7 +21,7 @@ http://awei.beimua.com/gudou.php?id=1350_4500
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类" tvg-logo="http://www.stream-link.org/tv_logo/hoy-info.png",開資訊台
 http://sc2022.stream-link.org/list.php?id=h012
-#EXTINF:-1 group-title="未分类" tvg-logo="http://www.stream-link.org/tv_logo/tvb-finance.png",無綫財經
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/无线财经.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5体育
 http://39.134.136.206:6610/200000001898/460000089800010139/1.m3u8?IASHttpSessionId=OTT

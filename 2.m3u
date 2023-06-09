@@ -33,14 +33,6 @@ http://39.134.136.206:6610/200000001898/460000089800010044/1.m3u8?IASHttpSession
 http://39.134.136.206:6610/200000001898/460000089800010142/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
 http://120.234.220.107:9000/udp/239.20.0.103:2004
-#http://yzfvip.top:8000/rtp/239.77.0.112:5146
-#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png",广州竞赛
-http://lu1.cc/a/play/php/gudou.php?id=gzjs
-#http://lu1.cc/itv/gdtv/gzxl.php?id=gzjs
-#EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png",先锋乒羽
-http://113.117.74.40:8081/hls/113/index.m3u8
-#http://mrcat.myqnapcloud.com:4022/udp/239.81.0.236:4056
-#https://www.cntao.top/api/cbn1.php?id=xianfeng
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",经济科教
 http://awei.beimua.com/gudou.php?id=GDjingjikejiaoHD_7000
 #http://live.cooltv.top/tv/gd.php?id=jjkj
@@ -125,6 +117,9 @@ http://lu1.cc/itv/yntv/ysy.php?id=ynys&l=1
 http://wh.re168.com:8089/udp/239.69.1.146:10512
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png",淘电影
 http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+#http://yzfvip.top:8000/rtp/239.77.0.112:5146
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png",广州竞赛
+#EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png",先锋乒羽
 
 
 

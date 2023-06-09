@@ -78,22 +78,13 @@ http://yuwentao114.f3322.net:4022/rtp/239.252.219.214:5140
 http://122.224.232.226:8888/udp/233.50.201.107:5140
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/浙江钱江.png",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 group-title="未分类",宁波TV1
-http://122.224.232.226:8888/udp/233.50.201.168:5140
-#http://www.372583307.top:4022/udp/233.50.201.168:5140 
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png",江苏城市
-http://www.yiyibest.com:7777/udp/239.49.8.107:8000
+http://lu1.cc/itv/php/migu.php?id=jscs
+#http://www.yiyibest.com:7777/udp/239.49.8.107:8000
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/陕西二套.png",陕西都市
 http://hor99.supersky.club:8000/udp/239.111.205.42:5140
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png",山东齐鲁
 rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
-#http://hcc91.ml:1234/udp/239.253.240.114:8000
-#EXTINF:-1 group-title="未分类",河东综合
-http://lu1.cc/itv/php/iqilu.php?id=lyhdzh
-#rtmp://wslivealone.iqilu.com/hedong/hedong_tv02
-#EXTINF:-1 group-title="未分类",河东影视
-http://lu1.cc/itv/php/iqilu.php?id=lyhdys
-#rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
 https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 #http://www.happyspace.party:4022/udp/239.45.3.237:5140
@@ -118,6 +109,16 @@ http://wh.re168.com:8089/udp/239.69.1.146:10512
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png",淘电影
 http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 #http://yzfvip.top:8000/rtp/239.77.0.112:5146
+#EXTINF:-1 group-title="未分类",宁波TV1
+http://122.224.232.226:8888/udp/233.50.201.168:5140
+#http://www.372583307.top:4022/udp/233.50.201.168:5140 
+#http://hcc91.ml:1234/udp/239.253.240.114:8000
+#EXTINF:-1 group-title="未分类",河东综合
+http://lu1.cc/itv/php/iqilu.php?id=lyhdzh
+#rtmp://wslivealone.iqilu.com/hedong/hedong_tv02
+#EXTINF:-1 group-title="未分类",河东影视
+http://lu1.cc/itv/php/iqilu.php?id=lyhdys
+#rtmp://wslivealone.iqilu.com/hedong/hedong_tv01
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png",广州竞赛
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png",先锋乒羽
 

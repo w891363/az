@@ -68,7 +68,7 @@ http://111.20.40.167/TVOD/88888893/224/3221226393/index.m3u8?icpid=88888893&from
 http://183.65.9.200:8888/udp/235.254.199.57:7980
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png", 浙江卫视
 http://122.224.232.226:8888/udp/233.50.201.100:5140
-#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png", 深圳卫视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/深圳卫视.png", 深圳卫视
 http://122.224.232.226:8888/udp/233.50.201.101:5140
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png", 广东卫视
 http://122.224.232.226:8888/udp/233.50.201.102:5140

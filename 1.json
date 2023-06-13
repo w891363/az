@@ -102,7 +102,7 @@
 {"name": "北京文艺","urls": ["http://lu1.cc/itv/bjtv/btime1.php?id=bjwy",
 "http://router.tonyliangli.cn:4022/udp/239.3.1.242:8000"]},
 {"name": "北京影视","urls": ["http://lu1.cc/itv/bjtv/btime1.php?id=bjys",
-"http://router.tonyliangli.cn:4022/udp/239.3.1.158:8000]},
+"http://router.tonyliangli.cn:4022/udp/239.3.1.158:8000"]},
 {"name": "上海新闻","urls": ["https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000"]},
 {"name": "东方影视","urls": ["https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000",
 "http://www.happyspace.party:4022/udp/239.45.3.237:5140"]},

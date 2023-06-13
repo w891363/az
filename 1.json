@@ -11,8 +11,8 @@
     
 "lives": [
 {"group": "港澳台","channels": [
-{"name": "鳳凰資訊","urls": ["https://pull-l3-cny.douyincdn.com/live/YesLiveTV-63134406-69d7-436b-986a-9bd696d4e2aa.m3u8"]},
-{"name": "鳳凰中文","urls": ["https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8"]},
+{"name": "鳳凰資訊","urls": ["http://123.51.230.108:18580/.m3u8"]},
+{"name": "鳳凰中文","urls": ["http://123.51.230.108:8515/.m3u8"]},
 {"name": "鳳凰香港","urls": ["https://pull-l3-cny.douyincdn.com/live/YesLiveTV-20c60f9d-309f-4705-8f2f-5d0db8ee7fbc.m3u8"]},
 {"name": "翡翠台","urls": ["http://pull-l3-cny.douyincdn.com/live/I8KKIHHHI5845884UUIOHHYHTV.flv",
 "http://r.jdshipin.com/qClQf",

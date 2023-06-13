@@ -19,17 +19,14 @@
 "http://r.jdshipin.com/62WM7"]},
 {"name": "無綫新聞","urls": ["http://pull-l3-cny.douyincdn.com/live/78625566800365445000YHTV.flv",
 "http://live.cooltv.top/tv/tvb.php?id=0"]},
-{"name": "開資訊台","urls": ["https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
-",
+{"name": "開資訊台","urls": ["https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be",
 "http://sc2022.stream-link.org/list.php?id=h012"]},
 {"name": "無綫財經","urls": ["http://live.cooltv.top/tv/tvb.php?id=2"]},
 {"name": "TVB星河","urls": ["http://pull-l3-cny.douyincdn.com/third/stream-d40c919171cfc73cf4de67fc381cbc3e.m3u8",
 "http://nsszds.f3322.net:8081/hls/135/index.m3u8"]},
-{"name": "TVB千禧台","urls": ["https://dispatch.ulivetv.net/v/live/cfxtubeazlc0.m3u8?stream_id=cfxtubeazlc0&timestamp=1686312862&rand=c0nBpFQO06&uuid=9b647b3816b2a66a&from=web&sign=f3a4e9844503c8acb364a0f280bd3837
-",
+{"name": "TVB千禧台","urls": ["https://dispatch.ulivetv.net/v/live/cfxtubeazlc0.m3u8?stream_id=cfxtubeazlc0&timestamp=1686312862&rand=c0nBpFQO06&uuid=9b647b3816b2a66a&from=web&sign=f3a4e9844503c8acb364a0f280bd3837",
 "http://157.255.133.13/keonline.shanghai.liveplay.qq.com/live/program/live/qjshd/4000000/mnf.m3u8"]},
-{"name": "开综合台","urls": ["https://dispatch.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&timestamp=1686312768&rand=cidk3uU7zb&uuid=9b647b3816b2a66a&from=web&sign=9de9834fec7256066532c141b77b5dc8
-"]}
+{"name": "开综合台","urls": ["https://dispatch.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&timestamp=1686312768&rand=cidk3uU7zb&uuid=9b647b3816b2a66a&from=web&sign=9de9834fec7256066532c141b77b5dc8"]}
 ]},
 
 {"group": "广东台","channels": [

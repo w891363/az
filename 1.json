@@ -109,8 +109,7 @@
 {"name": "江苏城市","urls": ["http://lu1.cc/itv/php/migu.php?id=jscs",
 "http://www.yiyibest.com:7777/udp/239.49.8.107:8000"]},
 {"name": "江苏影视","urls": ["http://litchiapp-rtmp.jstv.com/lizhiapp/jsys.m3u8"]},
-{"name": "山东齐鲁","urls": ["rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
-"]},
+{"name": "山东齐鲁","urls": ["rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn"]},
 {"name": "河东综合","urls": ["http://litchiapp-rtmp.jstv.com/lizhiapp/xxpd.m3u8"]},
 {"name": "河东影视","urls": ["http://litchiapp-rtmp.jstv.com/lizhiapp/ymkt.m3u8"]},
 {"name": "云南都市","urls": ["http://lu1.cc/itv/yntv/ysy.php?id=ynds&l=1"]},

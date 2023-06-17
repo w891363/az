@@ -24,7 +24,7 @@ http://39.134.136.206:6610/200000001898/460000089800010044/1.m3u8?IASHttpSession
 #EXTINF:-1 group-title="未分类" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16奥林匹克
 http://39.134.136.206:6610/200000001898/460000089800010142/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
-http://120.234.220.107:9000/udp/239.20.0.103:2004
+http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",经济科教
 http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png",深圳电视剧
@@ -46,7 +46,7 @@ http://183.65.9.200:8888/udp/235.254.199.57:7980
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png", 浙江卫视
 http://122.224.232.226:8888/udp/233.50.201.100:5140
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/深圳卫视.png", 深圳卫视
-http://122.224.232.226:8888/udp/233.50.201.101:5140
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png", 广东卫视
 http://122.224.232.226:8888/udp/233.50.201.102:5140
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
@@ -56,9 +56,9 @@ http://122.224.232.226:8888/udp/233.50.201.104:5140
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png", 东方卫视
 http://www.markc.top:8887/rtp/239.49.8.17:9606
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png", 江苏卫视
-http://yuwentao114.f3322.net:4022/rtp/239.252.219.214:5140
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png", 北京卫视
-http://122.224.232.226:8888/udp/233.50.201.107:5140
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/浙江钱江.png",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png",江苏城市

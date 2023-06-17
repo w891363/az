@@ -17,6 +17,8 @@ http://live.cooltv.top/tv/tvb.php?id=0
 https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/无线财经.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/TVB星河.png",TVB星河
+
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5体育
 http://39.134.136.206:6610/200000001898/460000089800010139/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+体育赛事
@@ -38,7 +40,7 @@ http://live.cooltv.top/tv/guangzhou.php?id=gzys
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1综合
 http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2财经
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6电影
 http://111.20.40.167/TVOD/88888893/224/3221226393/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,723&prioritypopid=1
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8电视剧
@@ -69,10 +71,6 @@ rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png",上海新闻
 https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png",北京文艺
-https://i.cntv.sbs/hls/bj.m3u8?id=wy
-#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京影视.png",北京影视
-http://qnap.yjnhome.com:4000/udp/239.3.1.158:8000
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁影视.png",辽宁影视
 http://39.134.61.219/PLTV/88888888/224/3221226861/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png",辽宁都市

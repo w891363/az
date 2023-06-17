@@ -18,7 +18,7 @@ https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&tim
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/无线财经.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/TVB星河.png",TVB星河
-
+http://nsszds.f3322.net:8081/hls/135/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5体育
 http://39.134.136.206:6610/200000001898/460000089800010139/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+体育赛事

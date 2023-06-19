@@ -40,7 +40,7 @@ http://live.cooltv.top/tv/guangzhou.php?id=gzys
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1综合
 http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2财经
-http://lu1.cc/itv/php/cqyx.php?id=cctv2
+http://119.39.128.18:88/hls/2/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6电影
 http://111.20.40.167/TVOD/88888893/224/3221226393/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,723&prioritypopid=1
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8电视剧

@@ -30,7 +30,6 @@ http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",经济科教
 http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png",深圳电视剧
-
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png",深圳都市
 http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/广州新闻.png",广州新闻

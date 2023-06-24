@@ -39,21 +39,21 @@ http://live.cooltv.top/tv/guangzhou.php?id=gzys
 http://gxdl-lhs.8866.org:85/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0 
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png",深圳都市
 http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/深圳卫视.png", 深圳卫视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.iqiq.io/da13576/az/main/logo/深圳卫视.png",深圳卫视
 http://cyz32.livehbindex.hbcatv.cn/live/50000020289041678b7585eb32637331.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png", 广东卫视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
 http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
 http://cyz32.livehbindex.hbcatv.cn/live/50000020c9ea4ce4bf3cfbbb7f8b8bb7.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png", 东方卫视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
 http://39.134.61.218/PLTV/88888888/224/3221227088/index.m3u8
-#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png", 江苏卫视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
 http://122.97.211.219:8114/FvSeid=&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=1002&Provider_id=&Pcontent_id=
-#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png", 浙江卫视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
 http://cyz32.livehbindex.hbcatv.cn/live/5000002045414da0bcca7fb08fd34c8a.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png", 北京卫视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png", 天津卫视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
 http://cyz32.livehbindex.hbcatv.cn/live/50000020bbc84ee1afd7177a073393d7.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1综合
 http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5

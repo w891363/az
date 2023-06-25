@@ -31,7 +31,7 @@ http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 http://113.117.74.26:8081/hls/66/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/广州综合.png",广州综合
 http://live.cooltv.top/tv/guangzhou.php?id=gzzh
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logoo/广州新闻.png",广州新闻
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/广州新闻.png",广州新闻
 http://live.cooltv.top/tv/guangzhou.php?id=gzxw
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/广州影视.png",广州影视
 http://live.cooltv.top/tv/guangzhou.php?id=gzys

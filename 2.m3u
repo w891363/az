@@ -3,13 +3,13 @@
 http://gxdl-lhs.8866.org:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4中文国际
 http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
-#EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",鳳凰資訊
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png",鳳凰資訊
 https://17186.eu.org/php/phtv/fhzxhd.flv
 #http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
-#EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",鳳凰中文
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png",鳳凰中文
 https://17186.eu.org/php/phtv/fhzwhd.flv
 #http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
-#EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",鳳凰香港
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视香港台.png",鳳凰香港
 https://17186.eu.org/php/phtv/fhhk.flv
 #http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台

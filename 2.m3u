@@ -79,7 +79,8 @@ http://39.134.61.219/PLTV/88888888/224/3221226861/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png",辽宁都市
 http://39.134.61.219/PLTV/88888888/224/3221226914/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/Yunnan1.png",云南都市
-http://lu1.cc/itv/yntv/ysy.php?id=ynds&l=1
+http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
+#http://lu1.cc/itv/yntv/ysy.php?id=ynds&l=1
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/Yunnan7.png",云南影视
 http://lu1.cc/itv/yntv/ysy.php?id=ynys&l=1
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png",淘电影

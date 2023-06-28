@@ -71,7 +71,7 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3
 http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/江苏城市.png",江苏城市
 http://lu1.cc/itv/php/migu.php?id=jscs
-#EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png",山东齐鲁
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png",山东齐鲁
 rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/上海东方影视.png",东方影视
 http://58.34.204.67:9901/tsfile/live/1016_1.m3u8

@@ -24,7 +24,7 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/inde
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+体育赛事
 http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16奥林匹克
-http://cfss.cc/api/ysp/cctv16.m3u8
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
 http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",经济科教

@@ -29,11 +29,11 @@ http://cyz32.livehbindex.hbcatv.cn/live/50000020c65d4a6b9b4e278405124734.m3u8?bi
 http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",经济科教
 http://113.117.74.26:8081/hls/66/index.m3u8
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/广州综合.png",广州综合
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州综合.png",广州综合
 http://live.cooltv.top/tv/guangzhou.php?id=gzzh
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/广州新闻.png",广州新闻
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png",广州新闻
 http://live.cooltv.top/tv/guangzhou.php?id=gzxw
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/广州影视.png",广州影视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州影视.png",广州影视
 http://live.cooltv.top/tv/guangzhou.php?id=gzys
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png",深圳电视剧
 http://gxdl-lhs.8866.org:85/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0 
@@ -69,7 +69,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 http://lu1.cc/itv/php/migu.php?id=jscs
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png",山东齐鲁
 rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/Shanghai3.png",东方影视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/上海东方影视.png",东方影视
 http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png",上海新闻
 http://live.cooltv.top/tv/bestv.php?id=20

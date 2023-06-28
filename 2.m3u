@@ -1,20 +1,24 @@
-#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png",广东珠江
 http://gxdl-lhs.8866.org:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4中文国际
 http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/凤凰卫视资讯台.png",鳳凰資訊
-http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+https://17186.eu.org/php/phtv/fhzxhd.flv
+#http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/凤凰卫视中文台.png",鳳凰中文
-http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+https://17186.eu.org/php/phtv/fhzwhd.flv
+#http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/凤凰卫视香港台.png",鳳凰香港
-http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+https://17186.eu.org/php/phtv/fhhk.flv
+#http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",無綫新聞
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类" tvg-logo="http://www.stream-link.org/tv_logo/hoy-info.png",開資訊台
-https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
+http://sc2022.stream-link.org/tv2306.php?id=h14
+#https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/无线财经.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/TVB星河.png",TVB星河

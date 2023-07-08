@@ -17,8 +17,7 @@ http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",無綫新聞
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类" tvg-logo="http://www.stream-link.org/tv_logo/hoy-info.png",開資訊台
-http://sc2022.stream-link.org/tv2306.php?id=h14
-#https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
+https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/无线财经.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png",TVB星河
@@ -34,11 +33,11 @@ http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",经济科教
 http://113.117.74.26:8081/hls/66/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州综合.png",广州综合
-http://live.cooltv.top/tv/guangzhou.php?id=gzzh
+https://justsometime.gztv.com/sec/zhonghe.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png",广州新闻
-http://live.cooltv.top/tv/guangzhou.php?id=gzxw
+https://justsometime.gztv.com/sec/xinwen.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州影视.png",广州影视
-http://live.cooltv.top/tv/guangzhou.php?id=gzys
+https://justsometime.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png",深圳电视剧
 http://gxdl-lhs.8866.org:85/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0 
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png",深圳都市
@@ -79,7 +78,7 @@ http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 http://live.cooltv.top/tv/bestv.php?id=20
 #https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁影视.png",辽宁影视
-http://39.134.61.219/PLTV/88888888/224/3221226861/index.m3u8
+http://39.134.61.218/PLTV/88888888/224/3221226861/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png",辽宁都市
 http://39.134.61.219/PLTV/88888888/224/3221226914/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.fastgit.org/da13576/az/main/logo/Yunnan1.png",云南都市

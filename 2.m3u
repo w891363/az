@@ -18,7 +18,7 @@ http://r.jdshipin.com/n90gt
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类" tvg-logo="http://www.stream-link.org/tv_logo/hoy-info.png",開資訊台
 https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.githubusercontent.com/da13576/az/main/logo/无线财经.png",無綫財經
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/无线财经.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png",TVB星河
 http://nsszds.f3322.net:8081/hls/135/index.m3u8
@@ -42,7 +42,7 @@ https://justsometime.gztv.com/sec/yingshi.m3u8
 http://gxdl-lhs.8866.org:85/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0 
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png",深圳都市
 http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.githubusercontent.com/da13576/az/main/logo/深圳卫视.png",深圳卫视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/深圳卫视.png",深圳卫视
 http://cyz32.livehbindex.hbcatv.cn/live/50000020289041678b7585eb32637331.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
 http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
@@ -81,9 +81,9 @@ http://live.cooltv.top/tv/bestv.php?id=20
 http://39.134.61.218/PLTV/88888888/224/3221226861/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png",辽宁都市
 http://39.134.61.219/PLTV/88888888/224/3221226914/index.m3u8
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.githubusercontent.com/da13576/az/main/logo/Yunnan1.png",云南都市
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/Yunnan1.png",云南都市
 http://lu1.cc/itv/yntv/ysy.php?id=ynds&l=1
-#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.githubusercontent.com/da13576/az/main/logo/Yunnan7.png",云南影视
+#EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/Yunnan7.png",云南影视
 http://lu1.cc/itv/yntv/ysy.php?id=ynys&l=1
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png",淘电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2

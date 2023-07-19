@@ -53,7 +53,7 @@ http://live.cooltv.top/tv/bestv.php?id=22
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
 http://122.97.211.219:8114/FvSeid=&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=1002&Provider_id=&Pcontent_id=
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
-http://cyz32.livehbindex.hbcatv.cn/live/5000002045414da0bcca7fb08fd34c8a.m3u8?bitrate=2300&pt=5
+http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
@@ -73,14 +73,15 @@ http://lu1.cc/itv/php/migu.php?id=jscs
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/山东齐鲁.png",山东齐鲁
 rtmp://livealone.iqilu.com/iqilu/qlpdhjOF03kn
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/上海东方影视.png",东方影视
-http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
+http://cfss.cc/ds/bst.php?id=Cf-53
+#http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png",上海新闻
 http://live.cooltv.top/tv/bestv.php?id=20
 #https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁影视.png",辽宁影视
-http://39.134.61.218/PLTV/88888888/224/3221226861/index.m3u8
+http://218.25.44.2:8899/hls/48/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png",辽宁都市
-http://39.134.61.219/PLTV/88888888/224/3221226914/index.m3u8
+http://218.25.44.2:8899/hls/47/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/Yunnan1.png",云南都市
 http://lu1.cc/itv/yntv/ysy.php?id=ynds&l=1
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/Yunnan7.png",云南影视

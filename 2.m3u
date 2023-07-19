@@ -17,7 +17,7 @@ http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",無綫新聞
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类" tvg-logo="http://www.stream-link.org/tv_logo/hoy-info.png",開資訊台
-https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8rom=web&sign=e3818cc15a28c2c6b3b52d3475f193be
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/无线财经.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png",TVB星河
@@ -83,9 +83,9 @@ http://218.25.44.2:8899/hls/48/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png",辽宁都市
 http://218.25.44.2:8899/hls/47/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/Yunnan1.png",云南都市
-http://lu1.cc/itv/yntv/ysy.php?id=ynds&l=1
+http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/Yunnan7.png",云南影视
-http://lu1.cc/itv/yntv/ysy.php?id=ynys&l=1
+http://221.213.43.82:8888/newlive/live/hls/55/live.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png",淘电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2
 

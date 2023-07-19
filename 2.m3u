@@ -17,7 +17,7 @@ http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",無綫新聞
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 group-title="未分类" tvg-logo="http://www.stream-link.org/tv_logo/hoy-info.png",開資訊台
-https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8rom=web&sign=e3818cc15a28c2c6b3b52d3475f193be
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/无线财经.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png",TVB星河
@@ -53,7 +53,7 @@ http://live.cooltv.top/tv/bestv.php?id=22
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
 http://122.97.211.219:8114/FvSeid=&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=1002&Provider_id=&Pcontent_id=
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
-http://125.210.152.19:9120/live/hzgq-zjwsgq-h264.m3u8
+http://cfss.cc/ds/bst.php?id=Cf-25
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视

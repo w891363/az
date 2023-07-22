@@ -31,7 +31,7 @@ http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
 http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",经济科教
-http://60.208.16.27:1505/gudou.php?id=364&id=GDjingjikejiaoHD_7000
+http://218.19.13.245:9901/tsfile/live/1009_1.m3u8
 #http://php.ilpl.me/gdtv/jjkj.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州综合.png",广州综合
 https://justsometime.gztv.com/sec/zhonghe.m3u8

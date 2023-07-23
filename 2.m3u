@@ -40,7 +40,7 @@ https://justsometime.gztv.com/sec/xinwen.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州影视.png",广州影视
 https://justsometime.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png",深圳电视
-http://gxdl-lhs.8866.org:85/tsfile/live/1113_1.m3u8?key=txiptv&playlive=1&authid=0 
+http://88888.55555.io:2345/udp/239.77.1.177:5146 
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png",深圳都市
 http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/深圳卫视.png",深圳卫视
@@ -84,11 +84,8 @@ http://218.25.44.2:8899/hls/48/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/辽宁都市.png",辽宁都市
 http://218.25.44.2:8899/hls/47/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/Yunnan1.png",云南都市
-http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV2.png",武汉电视
-http://gd.ikhs.cn:8880/udp/239.69.1.146:10512
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/陕西二套.png",都市青春
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png",淘电影
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~KlErQUXVuBznNsk_8-4cGuvN4oWIYr277XxeOWBSJuska5xHKrAeI7I72_CIJ2tk:20230121144555,&GuardEncType=2
 

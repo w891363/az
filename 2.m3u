@@ -42,7 +42,8 @@ https://justsometime.gztv.com/sec/xinwen.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广州影视.png",广州影视
 https://justsometime.gztv.com/sec/yingshi.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳电视剧.png",深圳电视
-http://88888.55555.io:2345/udp/239.77.1.177:5146 
+http://fxhack.f3322.org:8000/rtp/239.77.1.125:5146
+#http://88888.55555.io:2345/udp/239.77.1.177:5146 
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/深圳都市.png",深圳都市
 http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/深圳卫视.png",深圳卫视

@@ -4,20 +4,17 @@ http://88888.55555.io:2345/udp/239.77.0.3:5146
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4中文国际
 http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png",鳳凰資訊
-https://17186.eu.org/php/phtv/fhzxhd.flv
-#http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png",鳳凰中文
-https://17186.eu.org/php/phtv/fhzwhd.flv
-#http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
+http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视香港台.png",鳳凰香港
-https://17186.eu.org/php/phtv/fhhk.flv
-#http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
+https://cntv.sbs/fs?id=fhhk&auth=2307280808
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
-#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
-http://r.jdshipin.com/n90gt
+http://r.jdshipin.com/qClQf
+#http://r.jdshipin.com/n90gt
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",無綫新聞
 http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 group-title="未分类" tvg-logo="http://www.stream-link.org/tv_logo/hoy-info.png",開資訊台
+#EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png",HOY資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://raw.kgithub.com/da13576/az/main/logo/无线财经.png",無綫財經
 http://live.cooltv.top/tv/tvb.php?id=2
@@ -29,7 +26,7 @@ http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/inde
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+体育赛事
 http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16奥林匹克
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
 http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="未分类" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",经济科教
